@@ -93,6 +93,7 @@ function init(){
     document.querySelector('.wrapper-1').classList.remove('winner');
     document.querySelector('.wrapper-2').classList.remove('winner');
     document.querySelector('.wrapper-1').classList.add('active');
+    document.querySelector('.imageclass').style.display='none';
     }
 
 
